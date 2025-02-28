@@ -32,9 +32,15 @@ conda activate your_env_name
 pip install torch==1.8.0 torchvision==0.9.0  # Adjust according to your CUDA version
 ```
 
+# Install MedSAM
+```bash
+git clone https://github.com/bowang-lab/MedSAM
+cd MedSAM
+pip install -e .
+```
 
 ## Dataset Preparation
-```
+```bash
 The dataset structure required for this network should be organized as follows:
 ├── main
 ├── models
