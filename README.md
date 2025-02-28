@@ -82,7 +82,7 @@ This project is licensed under the MIT License.
 ## Citation
 If you use this code in your research, please cite our paper:
 ```
-@article{chi2024beyond,
+@article{chi2024Weakly,
   title={Weakly Supervised Segmentation Framework for Thyroid Nodule Based on High-confidence Labels and High-rationality Losses},
   author={Jianning Chi, Zelan Li, Geng Lin, MingYang Sun, Xiaosheng Yu},
   journal={arXiv preprint arXiv:2502.19707},
