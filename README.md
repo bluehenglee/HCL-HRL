@@ -10,7 +10,7 @@ Welcome to the official repository for the paper: "Weakly Supervised Segmentatio
   <img src="compare_results.png" width="900"  />
 </div>
 
-**Feature heatmap results of ablation Experiments.** our proposed method effectively addresses these challenges through two key innovations: (1) the generation of high-confidence labels to mitigate label noise and improve training stability, and (2) the introduction of a high-rationality loss function designed to capture location-level, region-level, and edge-level features for segmentation location and shape learning. These advancements are integrated into our proposed framework, showing comparable or even surpassing results to those of fully supervised networks, demonstrating its robustness and effectiveness in addressing the unique challenges posed by thyroid ultrasound image segmentation.
+**Segmentation results.** our proposed method effectively addresses these challenges through two key innovations: (1) the generation of high-confidence labels to mitigate label noise and improve training stability, and (2) the introduction of a high-rationality loss function designed to capture location-level, region-level, and edge-level features for segmentation location and shape learning. These advancements are integrated into our proposed framework, showing comparable or even surpassing results to those of fully supervised networks, demonstrating its robustness and effectiveness in addressing the unique challenges posed by thyroid ultrasound image segmentation.
 
 
 ## Environment Requirements
