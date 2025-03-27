@@ -1,6 +1,8 @@
 # HCL-HRL
+The point annotations scribbled by experts will be public when the article is accepted!!
 
 Welcome to the official repository for the paper: "Weakly Supervised Segmentation Framework for Thyroid Nodule Based on High-confidence Labels and High-rationality Losses."
+
 <div style="text-align: center;">
   <img src="framework.jpg" width="900"  />
 </div>
